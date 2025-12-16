@@ -2,7 +2,7 @@
 
 A sophisticated, responsive CV/resume template inspired by high-end magazine design. Features an "Editorial Luxe" aesthetic with elegant typography, sophisticated color palettes, and magazine-style layouts that make your CV unforgettable.
 
-![CV Template Preview](cv-template-desktop.png)
+![CV Template Preview](cv_template.png)
 
 ## ✨ Features
 
